@@ -1,4 +1,4 @@
-# Hola, soy Guille !
+# Hola, soy Guille :)
 
 Estoy estudiando actualmente la carrera de **Licenciatura en Informática** en la [UNLP](https://www.info.unlp.edu.ar/).
 Aca guardo mis repositorios de cursadas — trabajos prácticos, parciales y
