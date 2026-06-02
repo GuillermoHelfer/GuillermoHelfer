@@ -8,10 +8,8 @@
 
 </div>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=900&lines=Estudiante+de+Informática;Backend+Developer;Linux+%2B+Docker+Enthusiast;Programación+Paralela+con+MPI;Redes+y+Sistemas+Operativos)](https://git.io/typing-svg)
-
+<div align="center"> 
+    Backend • Linux • Redes • Sistemas Distribuidos • Bases de Datos
 </div>
 
 ---
@@ -43,7 +41,7 @@ class GuillermoHelfer {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,bash,linux,docker,git,github,vscode,mysql,postgresql"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript,typescript,vue,angular,bash,linux,docker,git,github,vscode,postgresql"/>
 
 </div>
 
