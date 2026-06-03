@@ -194,6 +194,10 @@ class GuillermoHelfer {
 <img src="https://img.shields.io/badge/Instagram-0D1117?&logo=instagram&logoColor=E4405F&labelColor=161B22"/>
 </a>
 
+<a href="https://www.linkedin.com/in/guillermo-helfer-7a1828264/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?&logo=LinkedIn&logoColor=E4405F&labelColor=161B22"/>
+</a>
+
 </div>
 
 ---
