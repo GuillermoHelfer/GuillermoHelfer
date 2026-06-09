@@ -4,13 +4,13 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,14,17&text=Guillermo%20Helfer&fontSize=50&fontAlignY=40&desc=Estudiante%20de%20Informática&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Guillermo%20Helfer&reversal=false&textBg=false&fontSize=55&fontColor=FFFFFF&animation=twinkling&stroke=000000&strokeWidth=1&desc=Estudiante%20de%20Informática&descSize=18"/>
 
 </div>
 
 <div align="center">
 
-### Backend • Linux • Redes • Sistemas Distribuidos • Bases de Datos
+### WebApps • Backend • Linux • Bases de Datos • Redes • Sistemas Distribuidos
 
 </div>
 
