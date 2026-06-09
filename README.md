@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Guillermo%20Helfer&reversal=false&textBg=false&fontSize=55&fontColor=FFFFFF&animation=twinkling&stroke=000000&strokeWidth=1&desc=Estudiante%20de%20Informática&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Guillermo%20Helfer&reversal=false&textBg=false&fontSize=55&fontColor=FFFFFF&animation=twinkling&stroke=000000&strokeWidth=1&desc=Estudiante%20de%20Informática&descSize=18"/>
 
 </div>
 
